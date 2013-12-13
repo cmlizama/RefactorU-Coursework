@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>WHAT I ATE</title>
+</head>
+
+<body>
+
+	<h1>Hungry Caterpillar's Food Journal</h1>
+
+    <h3> Review of that one flower</h3>
+    	<p> It was good it was a daisy</p>
+    <h6> The Hungry Caterpillar | <time> 2:00pm</time></h6>
+
+    <nav>
+    	<a href="http://en.wikipedia.org/wiki/The_Very_Hungry_Caterpillar">My wiki page</a>
+    	<br>
+    	<a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=8&cad=rja&ved=0CFUQFjAH&url=http%3A%2F%2Fwww.amazon.com%2FThe-Very-Hungry-Caterpillar-mini%2Fdp%2F0399213015&ei=AOMwUrrgB4zvqQG2qIHgAg&usg=AFQjCNFD2Qxud3MSdADkqcxDgaxwS7R0zw&sig2=TOk0aO7jqAWAd9TTyxTgdQ&bvm=bv.52109249,d.aWM">Buy my book</a>
+    </nav>
+
+</body>
+</html>

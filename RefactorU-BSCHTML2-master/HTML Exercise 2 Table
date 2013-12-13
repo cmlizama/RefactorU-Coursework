@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>A TABLE OF ANIMAL FOOT DATA</title>
+</head>
+
+<body>
+
+    <h1>Animals and Foots</h1>
+
+    <table border="1">
+    	<thead>
+    		<th>Animal</th>
+    		<th>Number of Feet</th>
+    	</thead>
+    	<tbody>
+    		<tr> 
+    			<td>Octopus</td>
+    			<td> 8 </td>
+    		</tr>
+    		<tr>
+    			<td> Giraffe</td>
+    			<td> 4</td>
+    		</tr>
+    		<tr>
+    			<td>Ladybug</td>
+    			<td>6</td>
+    		</tr>
+    	</tbody>
+    </table>
+
+
+</body>
+</html>

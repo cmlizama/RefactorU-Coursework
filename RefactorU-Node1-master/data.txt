@@ -1,0 +1,22 @@
+data.txt
+*text from German version of Wittgenstein's Tractatus Logico Philosophicus
+
+6.231
+Es ist eine Eigenschaft der Bejahung, dass man sie als doppelte Verneinung auffassen kann.
+Es ist eine Eigenschaft von »1+1+1+1«, dass man es als »(1+1)+(1+1)« auffassen kann.
+6.232
+Frege sagt, die beiden Ausdrücke haben dieselbe Bedeutung, aber verschiedenen Sinn.
+Das Wesentliche an der Gleichung ist aber, dass sie nicht notwendig ist, um zu zeigen, dass die beiden Ausdrücke, die das Gleichheitszeichen verbindet, dieselbe Bedeutung haben, da sich dies aus den beiden Ausdrücken selbst ersehen lässt.
+6.2321
+Und, dass die Sätze der Mathematik bewiesen werden können, heißt ja nichts anderes, als dass ihre Richtigkeit einzusehen ist, ohne dass das, was sie ausdrücken, selbst mit den Tatsachen auf seine Richtigkeit hin verglichen werden muss.
+6.2322
+Die Identität der Bedeutung zweier Ausdrücke lässt sich nicht behaupten. Denn, um etwas von ihrer Bedeutung behaupten zu können, muss ich ihre Bedeutung kennen: und indem ich ihre Bedeutung kenne, weiß ich, ob sie dasselbe oder verschiedenes bedeuten.
+6.2323
+Die Gleichung kennzeichnet nur den Standpunkt, von welchem ich die beiden Ausdrücke betrachte, nämlich vom Standpunkte ihrer Bedeutungsgleichheit.
+6.233
+Die Frage, ob man zur Lösung der mathematischen Probleme die Anschauung brauche, muss dahin beantwortet werden, dass eben die Sprache hier die nötige Anschauung liefert.
+6.2331
+Der Vorgang des Rechnens vermittelt eben diese Anschauung.
+Die Rechnung ist kein Experiment.
+6.234
+Die Mathematik ist eine Methode der Logik.

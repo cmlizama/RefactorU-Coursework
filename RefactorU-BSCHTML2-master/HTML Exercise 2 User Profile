@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>The Hungry Caterpillar</title>
+</head>
+
+<body>
+
+    <h1>The Hungry Caterpillar</h1>
+
+    <img src="http://mrfinlaysclass.files.wordpress.com/2012/06/the-very-hungry-caterpillar.jpg">
+    
+ <h2>Current status</h2>
+    	<p>Hungry :D !</p>
+
+    <div class="bio">
+    	<h2> About me </h2>
+    		<p> I am a caterpillar I am always hungry I like to eat flowers</p>
+    </div>
+
+    <div class="Accomplishments">
+    	<h2> Achievements and Accomplishments </h2>
+    		<ul>
+    			<li>Ate the leaves</li>
+    			<li>Munched some flowers</li>
+    			<li>chewed all the lawns</li>
+    			<li>and a smaller caterpillar</li>
+    		</ul>
+    </div>
+
+    <h4> Member since <time>12:00pm</time> 2013</h4>
+
+
+</body>
+</html>

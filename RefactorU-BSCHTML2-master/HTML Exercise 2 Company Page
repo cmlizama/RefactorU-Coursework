@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Hungry Caterpillar Consulting</title>
+</head>
+
+<body>
+	<h1>Hungry Caterpillar Consulting</h1>
+	<h2>Unleash your appetite</h2>
+
+<img src="http://b.vimeocdn.com/ts/573/130/5731306_640.jpg">
+
+
+	<h2>Recent News</h2>
+	<ul>
+		<li>Stock price of flowers reaches record high</li>
+		<li>Hungry Caterpillar convention 2013</li>
+		<li>Study finds that eating 99 fruits a day can lead to longevity</li>
+   </ul>
+
+   <h2>Bestselling Products</h2>
+   		<ol>
+   			<li>Motivational Speaking</li>
+   			<li>1-on-1 consulting</li>
+   			<li>Small group synergizing</li>
+   		</ol>
+
+   <h2>Special Buy 1 get 1 Offer!</h2>
+   		<p>Two lectures for the price of one!</p>
+
+</body>
+</html>

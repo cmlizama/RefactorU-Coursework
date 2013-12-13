@@ -1,0 +1,26 @@
+extends layout
+
+block content
+    h1 I'm Jaded
+    p Welcome to #{title}
+
+    p If you added up all the electrons involved:
+    h2 The internet would weigh 1.8 ounces
+        h6 | Wow! Neato!
+    a(href='http://fall2013.refactoru.com') Student Site
+    div: input.feedbackForm(type="text", name="userFeedback")
+
+
+    mixin list
+        ol
+            li cake
+            li pie
+            li ice cream
+    +list()
+    
+    if title = "Buck Wild"
+        p 2 wild 2 buck
+    else
+        need more wild
+
+//conditionals
